@@ -1,17 +1,23 @@
 # Music Player Capstone
 
-## Project Idea
-This project is a dynamic and user-friendly music player application. It allows users to explore and play music tracks, manage playlists, and experience a seamless playback interface.
+## Overview
+A dynamic and user-friendly music player application that lets users play, organize, and manage their favorite songs.
+
+## Features
+- Play music tracks.
+- Create playlists.
+- Search and filter songs.
 
 ## Tools
-- **React**: For building the user interface.
-- **Tailwind CSS**: For styling.
-- **Deezer API**: For fetching and managing music data.
-- **Vite**: As the React boilerplate setup.
+- React for front-end development.
+- Tailwind CSS for styling.
+- Backend API for music data.
 
-## Planned Features
-- Display a list of songs and albums.
-- Search functionality for songs or artists.
-- Music playback with controls (play, pause, skip).
-- Playlist management.
-- Responsive and modern design.
+## Folder Structure
+- `public/`: Static assets.
+- `src/`: Source code, including components and pages.
+
+## How to Run the Project
+1. Clone the repository.
+2. Run `npm install` to install dependencies.
+3. Start the project with `npm run dev`.
