@@ -1,4 +1,5 @@
-const { keyframes, transform } = require("framer-motion");
+import { keyframes, transform } from "framer-motion";
+
 
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
